@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/crypto-club/static/css/main.8c35be72.css",
-    "main.js": "/crypto-club/static/js/main.e9a1768a.js",
+    "main.js": "/crypto-club/static/js/main.a4b07703.js",
     "static/js/453.a8b93875.chunk.js": "/crypto-club/static/js/453.a8b93875.chunk.js",
     "static/media/no_image.svg": "/crypto-club/static/media/no_image.172ff8313830d326a04ba9371f542651.svg",
     "index.html": "/crypto-club/index.html",
     "main.8c35be72.css.map": "/crypto-club/static/css/main.8c35be72.css.map",
-    "main.e9a1768a.js.map": "/crypto-club/static/js/main.e9a1768a.js.map",
+    "main.a4b07703.js.map": "/crypto-club/static/js/main.a4b07703.js.map",
     "453.a8b93875.chunk.js.map": "/crypto-club/static/js/453.a8b93875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c35be72.css",
-    "static/js/main.e9a1768a.js"
+    "static/js/main.a4b07703.js"
   ]
 }
