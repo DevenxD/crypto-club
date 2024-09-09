@@ -1,0 +1,20 @@
+{
+  "short_name": "Crypto Club",
+  "name": "Signals Viewer",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "A Chrome extension to display JSON in an organized format using React.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "View JSON"
+  },
+  "permissions": ["storage", "activeTab"],
+  "icons": {
+    "48": "logo192.png",
+    "128": "logo512.png"
+  },
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
